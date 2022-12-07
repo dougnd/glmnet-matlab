@@ -10,8 +10,7 @@ module load intel-oneapi-compilers/2022.1.0-gcc/9.5.0
 
 ## Build instructions
 
-The following instructions indicate how it was built with Matlab 2021b and gcc
-9.5.0 on Palmetto and can be used to rebuild for newer versions:
+The following instructions indicate how it was built with Matlab 2022a and intel oneapi compilers on Palmetto and can be used to rebuild for newer versions:
 
 Get on a compute node:
 ```
